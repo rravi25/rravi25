@@ -1,6 +1,7 @@
+	
 <h1 align="center">Hi 👋, I'm Ravi Hitang</h1>
 <h3 align="center">A passionate Tech Enthusiast !</h3>
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/DhstvI3zZ598Nb1rFf/giphy-downsized-large.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravihitang&label=Profile%20views&color=0e75b6&style=flat" alt="ravihitang" /> </p>
 
@@ -13,6 +14,7 @@
 - 📫 How to reach me **ravihitangofficial25@gmail.com**
 
 - ⚡ Fun fact **I think my syntax is correct**
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/DhstvI3zZ598Nb1rFf/giphy-downsized-large.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravihitang&show_icons=true&locale=en" alt="ravihitang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravihitang&" alt="ravihitang" /></p>
-
