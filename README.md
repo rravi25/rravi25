@@ -14,7 +14,8 @@
 - 📫 How to reach me **ravihitangofficial25@gmail.com**
 
 - ⚡ Fun fact **I think my syntax is correct**
-- <div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/Wj7lNjMNDxSmc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a></p>
+- <img align="center" src="[https://media.giphy.com/media/KPgOYtIRnFOOk/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxrdXBtbWV6N2g0YzRhOGN3bnZxOWFranR6Z2cxN3NzYmFxbmVpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif)">
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
